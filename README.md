@@ -15,3 +15,7 @@ brew install emanuelefavero/cdonut/cdonut
 ```bash
 cdonut
 ```
+
+## License
+
+- [MIT](LICENSE.md)
