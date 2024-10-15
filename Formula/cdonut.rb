@@ -4,6 +4,8 @@ class Cdonut < Formula
   url "https://github.com/emanuelefavero/cdonut/archive/refs/tags/v1.0.tar.gz"
   sha256 "9b558fe41e2bc2776f8e1eb5546072411f0a3135a9a4e35aa1214c8a7d4b71ce" # Generate this with `shasum -a 256 cdonut-1.0.tar.gz`
   version "1.0"
+  license "MIT"
+
 
   def install
     system "make" # Compile the program using the Makefile
